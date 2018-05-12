@@ -1,4 +1,8 @@
 _repo: Yorkshire-Oddities-Incidents-and-Strange-Events_47386
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47386-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47386#Yorkshire-Oddities-Incidents-and-Strange-Events
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
